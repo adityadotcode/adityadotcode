@@ -35,9 +35,9 @@ Welcome to my GitHub! I'm a first-year Information Science Engineering student a
 
 ## 📈 GitHub Stats
 
-<!-- Note: Replace 'YOUR_USERNAME' in the links below with your actual GitHub username -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adiXbuild&show_icons=true&theme=radical)](https://github.com/adiXbuild)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiXbuild&layout=compact&theme=radical)](https://github.com/adiXbuild)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adiXbuild&show_icons=true&theme=radical&v=1)](https://github.com/adiXbuild)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiXbuild&layout=compact&theme=radical&v=1)](https://github.com/adiXbuild)
 
 ## 📫 Let's Connect!
 
