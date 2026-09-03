@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya👋
 
-Welcome to my GitHub! I'm a first-year Information Science Engineering student at the Siddaganga Institute of Technology (SIT), Tumkur. I'm passionate about building robust software, solving complex algorithmic challenges, and exploring emerging technologies. 
+Welcome to my GitHub! I'm a second-year Information Science Engineering student at the Siddaganga Institute of Technology (SIT), Tumkur. I'm passionate about building robust software, solving complex algorithmic challenges, and exploring emerging technologies. 
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a first-year Information Science Engineering student a
 * 💻 Also, I'm mastering **Data Structures and Algorithms (DSA)** and actively practicing problems on platforms like **LeetCode**.
 
 * 🤝 I’m actively looking to collaborate on software projects and make my first major open-source contributions.
-* ⚡ **Fun fact:** When I'm not coding or building complex habit-tracking dashboards in Google Sheets, you can find me working on my calisthenics routines or admiring classic cars.
+* ⚡ **Fun fact:** When I'm not coding or building complex habit-tracking dashboards in Google Sheets, when i get time to explore, you can find me travelling to different places or admiring classic cars.
 
 
 ## 🛠️ Tech Stack & Tools
